@@ -4,6 +4,6 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "husky": "^3.0.5"
+    "husky": "^4.0.0-beta.1"
   }
 }

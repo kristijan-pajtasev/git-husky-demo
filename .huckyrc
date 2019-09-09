@@ -1,5 +1,5 @@
 {
   "hooks": {
-    "pre-commit": "echo \"Hello, World! 2\""
+    "pre-commit": "echo \"Hello, World!\""
   }
 }

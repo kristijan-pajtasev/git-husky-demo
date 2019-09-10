@@ -10,3 +10,5 @@ if [ "$branch" = "master" ]; then
   echo "You can't commit directly to '"${branch}"' branch"
   exit 1
 fi
+
+exit 0

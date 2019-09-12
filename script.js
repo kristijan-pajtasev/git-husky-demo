@@ -1,4 +1,2 @@
-process.argv.forEach((val, index) => {
-    console.log(`${index}: ${val}`)
-})
-process.exit(0)
+// passes if it exits with 0, fails for any other value
+process.exit(0);

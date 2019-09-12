@@ -7,6 +7,6 @@
     "husky": "^3.0.5"
   },
   "scripts": {
-    "run": "echo \"Hello pre-commit hook\""
+    "hook": "echo \"Hello pre-commit hook\""
   }
 }

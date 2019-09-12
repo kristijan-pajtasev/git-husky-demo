@@ -5,5 +5,8 @@
   "main": "index.js",
   "dependencies": {
     "husky": "^3.0.5"
+  },
+  "scripts": {
+    "run": "echo \"Hello pre-commit hook\""
   }
 }

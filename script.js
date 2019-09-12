@@ -1,4 +1,4 @@
 process.argv.forEach((val, index) => {
     console.log(`${index}: ${val}`)
 })
-process.exit(1)
+process.exit(0)
